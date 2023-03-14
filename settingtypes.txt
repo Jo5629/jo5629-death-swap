@@ -1,0 +1,2 @@
+#Provides how long till the next swap will be.
+swap_time (Switching Time) int 120
